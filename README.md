@@ -1,7 +1,7 @@
 ## Hi, I'm Thiago! 👋🏽👨🏾‍💻
   
 I'm an Automation and Control Engineering student and I have a degree in science and technology, aspiring to be an developer/software engineer.  
-Currently, I'm a QA and Tests Automation Engineer with 2 years of experience at [Vericode](https://vericode.com.br) as QA and Tests Automation Engineer using [Karate](https://github.com/karatelabs/karate), [Cypress](https://cypress.io), and [Cucumber](https://cucumber.io).  
+Currently, I'm a QA and Tests Automation Engineer with 2 years of experience at [Vericode](https://vericode.com.br) using [Karate](https://github.com/karatelabs/karate), [Cypress](https://cypress.io), and [Cucumber](https://cucumber.io).  
 My main goals are making open-source software more accessible and spread, making Linux more known and used, develop clean code, and create technology to connect, elevate and include people.  
 
 #### Find me around the web:
@@ -20,9 +20,8 @@ My main goals are making open-source software more accessible and spread, making
 <div style="display: inline-block">
   <a href="https://github.com/souzathg">
    
-  <img align="center" alt="thg-javascript" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="thg-python" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="thg-npm" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="javascript-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="python-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ##
@@ -30,10 +29,9 @@ My main goals are making open-source software more accessible and spread, making
 ##### I’m currently learning:
 <a href="https://github.com/souzathg">
 <div align="left" style="display: inline-block">
-  <img align="center" alt="thg-html" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="thg-css" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="thg-java" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="thg-node" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="html-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="css-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="java-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 ##
