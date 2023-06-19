@@ -1,8 +1,8 @@
 ## Hi, I'm Thiago! 👋🏽👨🏾‍💻
   
-I'm an Automation and Control Engineering student and I have a degree in science and technology, aspiring to be an developer/software engineer.  
-Currently, I'm a QA and Tests Automation Engineer with 2 years of experience at [Vericode](https://vericode.com.br) using [Karate](https://github.com/karatelabs/karate), [Cypress](https://cypress.io), and [Cucumber](https://cucumber.io).  
-My main goals are making open-source software more accessible and spread, making Linux more known and used, develop clean code, and create technology to connect, elevate and include people.  
+I'm an Automation and Control Engineering student and I have a degree in science and technology, aspiring to be a software engineer.  
+I'm a QA and Tests Automation Engineer with 2 years of experience at [Vericode](https://vericode.com.br) using [Karate](https://github.com/karatelabs/karate), [Cypress](https://cypress.io), and [Cucumber](https://cucumber.io).  
+My main goals are making open-source software more accessible and spread, making Linux more known and used, developing clean code, and creating technology to connect, elevate and include people.  
 
 #### Find me around the web:
 
@@ -15,7 +15,7 @@ My main goals are making open-source software more accessible and spread, making
   
 ##
   
-##### Some languages, technologies and tools I use:
+##### Some languages, technologies, and tools I use:
 
 <div style="display: inline-block">
   <a href="https://github.com/souzathg">
