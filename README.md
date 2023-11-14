@@ -1,10 +1,10 @@
-## Hi, I'm Thiago! 👋🏽👨🏾‍💻
-  
-I'm an Automation and Control Engineering student and I have a degree in science and technology, aspiring to be a software engineer.  
-I'm a QA and Tests Automation Engineer with 2 years of experience at [Vericode](https://vericode.com.br) using [Karate](https://github.com/karatelabs/karate), [Cypress](https://cypress.io), and [Cucumber](https://cucumber.io).  
-My main goals are making open-source software more accessible and spread, making Linux more known and used, developing clean code, and creating technology to connect, elevate and include people.  
+# Hi there! 👋🏽👨🏾‍💻
 
-#### Find me around the web:
+I'm **Thiago**, a passionate Software Engineer based in São Paulo, Brazil, bringing over 4 years of experience in the dynamic field of IT.  
+My main goals are making open-source software more accessible and spread, making Linux more known and used, developing clean and performatic code, and creating technology to connect, elevate and include people.  
+  
+
+## Find me around the web:
 
 <div>
   <a href="https://www.linkedin.com/in/souzathg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,30 +15,63 @@ My main goals are making open-source software more accessible and spread, making
   
 ##
   
-##### Some languages, technologies, and tools I use:
+## Tech Stack:
 
-<div style="display: inline-block">
-  <a href="https://github.com/souzathg">
-   
-  <img align="center" alt="javascript-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="python-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+### Working experience
+```yaml
+programming_langagues:
+  - Java
+  - Kotlin
+  - JavaScript
+backend:
+  - Spring
+  - Reactor
+  - Google Pub/Sub
+frontend:
+  - HTML
+  - CSS
+  - React
+  - TailwindCSS
+testing:
+  - jUnit
+  - Karate
+  - Cypress
+  - Postman
+  - Insomnia
+databases:
+  - PostgreSQL
+  - Datastore
+  - Spanner
+  - Redis
+devops:
+  - Docker
+  - Kubernetes
+  - Google Cloud Platform
+  - Bash Scripting
+other:
+  - Linux
+  - Git
+  - Vim
+```
 
-##
-
-##### I’m currently learning:
-<a href="https://github.com/souzathg">
-<div align="left" style="display: inline-block">
-  <img align="center" alt="html-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="css-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="java-logo" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-
-##
-
-<!-- <div align="center">
-  <a href="https://github.com/souzathg">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=souzathg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzathg&layout=compact&langs_count=7&theme=tokyonight"/></a>
-</div>
--->
+### Currently Learning
+```yaml
+programming_langagues:
+  - Rust
+  - C
+  - TypeScript
+backend:
+  - NodeJS
+  - Express
+frontend:
+  - NextJS
+  - React
+databases:
+  - Redis
+  - MongoDB
+devops:
+  - Docker
+  - Kubernetes
+  - AWS
+  - CircleCI
+```
