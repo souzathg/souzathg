@@ -1,11 +1,16 @@
 # Hi there! 👋🏽👨🏾‍💻
 
-I'm **Thiago**, a passionate Software Engineer based in São Paulo, Brazil, bringing over 4 years of experience in the dynamic field of IT.  
-My main goals are making open-source software more accessible and spread, making Linux more known and used, developing clean and performatic code, and creating technology to connect, elevate and include people.  
-  
+I'm **Thiago**, a Software Engineer from São Paulo, Brazil, with over 5 years of experience in technology.  
+I’m passionate about:  
+- 🚀 Building open-source software and promoting its adoption.  
+- 🐧 Advocating for Linux and open technologies.  
+- 💻 Writing clean, efficient, and maintainable code.  
+- 🌍 Creating technology that connects, empowers, and includes people.  
 
-## Find me around the web:
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzathg&show_icons=true&theme=radical)
 
+## 🌐 Find me around the web:
+Let's connect and collaborate!
 <div>
   <a href="https://www.linkedin.com/in/souzathg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:thgsouza@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
@@ -13,63 +18,73 @@ My main goals are making open-source software more accessible and spread, making
   <a href="https://steamcommunity.com/id/souzathg" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </div>
   
-## Tech Stack:
+## 💻 Tech Stack:
 
-### Working experience
+### 🛠️ Working experience
 ```yaml
-programming_langagues:
+languages:
   - Java
   - Kotlin
   - JavaScript
 backend:
-  - Spring
-  - Reactor
-  - Google Pub/Sub
-frontend:
-  - HTML
-  - CSS
-  - React
-  - TailwindCSS
+  - Spring Framework
+  - Project Reactor
+  - Google Cloud Pub/Sub
+databases:
+  - PostgreSQL
+  - Spanner
+  - Firestore (Datastore)
+  - Redis
+devops:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Bash Scripting
 testing:
   - jUnit
   - Karate
   - Cypress
   - Postman
   - Insomnia
-databases:
-  - PostgreSQL
-  - Datastore
-  - Spanner
-  - Redis
-devops:
-  - Docker
-  - Kubernetes
-  - Google Cloud Platform
-  - Bash Scripting
-other:
+frontend:
+  - HTML
+  - CSS
+  - React
+  - TailwindCSS
+tools:
   - Linux
   - Git
-  - Vim
+  - Grafana
+  - JIRA
+  - Confluence
 ```
 
-### Currently Learning
+### 📚 Currently Learning
 ```yaml
-programming_langagues:
-  - Rust
+languages:
   - C
   - TypeScript
 backend:
   - NodeJS
   - Express
-frontend:
-  - NextJS
-  - React
 databases:
   - Redis
-  - MongoDB
 devops:
   - Docker
   - Kubernetes
   - AWS
   - CircleCI
+frontend:
+  - NextJS
+  - React
+certification:
+  - Google Cloud Professional - Cloud Developer
 ```
+
+## 🤝 Let's Connect!
+
+If you're interested in collaborating on exciting projects, discussing technology, or just having a tech chat, feel free to reach out! 🚀  
+
+📬 **[Drop me an email](mailto:thgsouza@outlook.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/souzathg/).  
+
+Let's build something amazing together! 💡 
