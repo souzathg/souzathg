@@ -55,28 +55,24 @@ tools:
   - Grafana
   - JIRA
   - Confluence
+certifications:
+  - Professional Cloud Developer (Google Cloud)
 ```
 
 ### 📚 Currently Learning
 ```yaml
 languages:
   - C
-  - TypeScript
+  - Elixir
 backend:
-  - NodeJS
-  - Express
-databases:
-  - Redis
+  - Phoenix
 devops:
   - Docker
   - Kubernetes
   - AWS
-  - CircleCI
 frontend:
   - NextJS
   - React
-certification:
-  - Google Cloud Professional - Cloud Developer
 ```
 
 ## 🤝 Let's Connect!
