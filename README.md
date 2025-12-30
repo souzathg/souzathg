@@ -7,8 +7,6 @@ I’m passionate about:
 - 💻 Writing clean, efficient, and maintainable code.  
 - 🌍 Creating technology that connects, empowers, and includes people.  
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzathg&show_icons=true&theme=radical)
-
 ## 🌐 Find me around the web:
 Let's connect and collaborate!
 <div>
